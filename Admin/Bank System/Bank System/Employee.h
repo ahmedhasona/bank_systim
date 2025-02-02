@@ -3,7 +3,7 @@
 #include <string>
 #include "Person.h"
 using namespace std;
-class Employee:public Person
+class Employee:public Person_n
 {
 protected:
     double salary;
